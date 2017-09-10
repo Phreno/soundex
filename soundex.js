@@ -1,3 +1,6 @@
+/*
+ * Adapté au francais depuis https://gist.github.com/shawndumas/1262659
+ */
 module.exports=function (s) {
   var
   a = s.toLowerCase().split(''),

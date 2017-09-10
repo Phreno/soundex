@@ -2,7 +2,7 @@
   "name": "soundex",
   "version": "1.0.0",
   "description": "Soundex fr",
-  "main": "index.js",
+  "main": "soundex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
