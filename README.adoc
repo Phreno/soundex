@@ -1,0 +1,3 @@
+= Soundex
+Source récupérées depuis https://gist.github.com/shawndumas/1262659
+Adaptation de l'algo au français
