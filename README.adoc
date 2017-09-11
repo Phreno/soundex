@@ -1,5 +1,25 @@
 = Soundex
 
+****
 Source récupérées depuis https://gist.github.com/shawndumas/1262659
-
 Adaptation de l'algo au français
+****
+
+[NOTE]
+====
+Les options par défault sont en français.
+====
+
+== Utilisation du client
+
+.Usage
+[source, bash]
+----
+./cli -w [word]
+----
+
+.Exemple une version anglaise
+----
+./cli -w [word] -l en
+----
+

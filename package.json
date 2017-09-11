@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "soundex": "./cli.js"
+  },
+  "config": {
+    "DEFAULT_LANG": "fr"
+  },
   "author": "K3rn€l_P4n1K",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
 }
